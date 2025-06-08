@@ -10,3 +10,6 @@ Group: IUP05
 
 Integrate the equation f(x, y) = 4x^4 - 12x^2 from x0=2 to x3=11 given step h=3 using the Euler method
 (also calculate the error)
+
+
+Explanations are in the ipynb file
